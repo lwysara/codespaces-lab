@@ -1,0 +1,13 @@
+at > .dockerignore <<'IGN'
+.git
+.github
+.devcontainer
+.vscode
+.env
+*.env
+__pycache__/
+*.pyc
+.venv/
+labs/
+README.md
+IGN
