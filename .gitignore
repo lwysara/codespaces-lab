@@ -1,0 +1,8 @@
+cat > .gitignore <<'IGN'
+.env
+*.env
+*.key
+__pycache__/
+*.pyc
+.venv/
+IGN
